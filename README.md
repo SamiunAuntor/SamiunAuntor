@@ -1,13 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samiun!</h1>
 <h3 align="center">🎓 Software Engineering Student | 🔧 Practical Engineer | 💻 Full-Stack Learner</h3>
 
-<!-- GitHub stats cards: commits, repos, experience -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samiunauntor&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&hide_rank=true&line_height=28" alt="GitHub Stats" width="320" style="margin-right: 10px;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=samiunauntor&show_icons=true&hide_title=true&hide_rank=true&include_all_commits=true&count_private=true&show_icons=true&line_height=28&theme=default&hide=issues" alt="Repositories" width="320" style="margin-right: 10px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samiunauntor&hide_title=true&theme=default" alt="GitHub Streak" width="320" />
-</p>
-
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=samiunauntor" alt="samiunauntor" />
@@ -82,4 +75,20 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" />
   </a>
+</p>
+
+---
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=samiunauntor&show_icons=true&locale=en&layout=compact"
+    alt="Top Languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=samiunauntor&"
+    alt="GitHub Streak"
+  />
 </p>
