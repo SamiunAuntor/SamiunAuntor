@@ -8,9 +8,7 @@
 ---
 
 ### 📖 About Me
-I am a Software Engineering student at the Islamic University of Technology, currently specializing in web development. I am proficient in the **MERN stack** and am actively expanding my expertise into **Next.js, System Design, and Relational Databases**. 
-
-What motivates me most is the learning process. Every project is an opportunity to improve my understanding of clean code, responsive layouts, and building user-friendly experiences. My goal is to grow into a complete Full Stack Developer capable of building scalable applications that solve real-world problems.
+I am a Software Engineering student at the Islamic University of Technology, dedicated to building robust and user-centric web applications. Having mastered the **MERN stack**, I am now diving deep into **Next.js, System Design, and Relational Databases** to build scalable, real-world solutions. I thrive on the learning process, constantly refining my approach to clean code and efficient architecture.
 
 ---
 
@@ -57,8 +55,11 @@ What motivates me most is the learning process. Every project is an opportunity 
 
 ### 📊 GitHub Statistics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SamiunAuntor&show_icons=true&theme=transparent&hide_border=true&hide_title=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamiunAuntor&layout=compact&theme=transparent&hide_border=true&hide_title=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SamiunAuntor&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamiunAuntor&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
