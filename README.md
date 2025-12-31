@@ -1,66 +1,75 @@
 # Hi there, I'm Samiun Alim Auntor 👋
 
-![Banner](https://images.unsplash.com/photo-1550439062-609e1531270e?q=80&w=1200&auto=format&fit=crop)
+![Banner](https://images.unsplash.com/photo-1517134191118-9d595e4c8c2b?q=80&w=2070&auto=format&fit=crop)
 
-### 👨‍💻 Full Stack Developer | Software Engineering Student @ IUT
-
-I am a Software Engineering student at the Islamic University of Technology, dedicated to building robust and user-centric web applications. Having mastered the **MERN stack**, I am now diving deep into **Next.js, System Design, and Relational Databases** to build scalable, real-world solutions. I thrive on the learning process, constantly refining my approach to clean code and efficient architecture.
+### Full Stack Developer
+**Pursuing Software Engineering at IUT | Exploring System Design, Databases & Networking**
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 📖 About Me
+I am a Software Engineering student at the Islamic University of Technology, currently specializing in web development. I am proficient in the **MERN stack** and am actively expanding my expertise into **Next.js, System Design, and Relational Databases**. 
 
-**🌐 Frontend & Styling**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**⚙️ Backend & Database**
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-
-**💻 Languages & DevOps**
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+What motivates me most is the learning process. Every project is an opportunity to improve my understanding of clean code, responsive layouts, and building user-friendly experiences. My goal is to grow into a complete Full Stack Developer capable of building scalable applications that solve real-world problems.
 
 ---
 
 ### 🔭 Current Activities
-- 🎓 **Education:** Pursuing B.Sc. in Software Engineering at IUT.
-- 🏗️ **Building:** A comprehensive Property Listing (Rental/Buy/Sell) platform.
-- 📚 **Learning:** Advanced Next.js features, System Design patterns, and Networking fundamentals.
-- 🧪 **Exploring:** Docker containerization and Prisma ORM for type-safe database management.
+* 🎓 **Degree:** Pursuing B.Sc. in Software Engineering at IUT.
+* 🏗️ **Project:** Developing a Property Listing (Rental & Buy/Sell) website.
+* 📚 **Learning:** Next.js, Docker, TypeScript, and Prisma.
+* 🌐 **Deep Dive:** Exploring Networking fundamentals and Relational Database Management.
 
 ---
 
-### 📊 My GitHub Stats
+### 🛠️ Skills
+
+**Frontend**
+<br />
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Backend & Database**
+<br />
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+**Languages & Tools**
+<br />
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Deployment**
+<br />
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase_Hosting-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+---
+
+### 📊 GitHub Statistics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SamiunAuntor&show_icons=true&theme=tokyonight" alt="Samiun's Stats" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamiunAuntor&theme=tokyonight" alt="Samiun's Streak" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SamiunAuntor&show_icons=true&theme=transparent&hide_border=true" alt="Samiun's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamiunAuntor&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamiunAuntor&theme=transparent&hide_border=true" alt="Samiun's Streak Stats" />
 </p>
 
 ---
 
-### 📫 Connect with Me
-<p align="left">
-<a href="https://www.linkedin.com/in/samiun-alim-auntor/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samiun-alim-auntor" height="30" width="40" /></a>
-<a href="https://github.com/SamiunAuntor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="SamiunAuntor" height="30" width="40" /></a>
-</p>
-
----
-*“Consistent effort and result-oriented focus drive meaningful progress.”*
+### 🔗 Connect with Me
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/samiun-alim-auntor/)
+[<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/SamiunAuntor)
