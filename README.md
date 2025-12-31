@@ -65,9 +65,9 @@ I am a Software Engineering student at the Islamic University of Technology, ded
   </tr>
 </table>
 
-<p align="center">
+<div align="center" style="border:1px solid #ccc; border-radius:10px; padding:10px; display:inline-block; margin-top:10px;">
   <img src="https://ghchart.rshah.org/SamiunAuntor" alt="GitHub Contributions Graph" />
-</p>
+</div>
 
 
 ---
