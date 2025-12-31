@@ -8,15 +8,15 @@
 ---
 
 ### 📖 About Me
-I am a Software Engineering student at the Islamic University of Technology, dedicated to building robust and user-centric web applications. Having mastered the **MERN stack**, I am now diving deep into **Next.js, System Design, and Relational Databases** to build scalable, real-world solutions. I thrive on the learning process, constantly refining my approach to clean code and efficient architecture.
+I am a Software Engineering student at the Islamic University of Technology, dedicated to building robust and user-centric web applications. I am proficient in the **MERN stack** and now diving deep into **Next.js, System Design, and Relational Databases** to build scalable, real-world solutions. I thrive on the learning process, constantly refining my approach to clean code and efficient architecture.
 
 ---
 
 ### 🔭 Current Activities
-* 🎓 **Degree:** Pursuing B.Sc. in Software Engineering at IUT.
-* 🏗️ **Project:** Developing a Property Listing (Rental & Buy/Sell) website.
-* 📚 **Learning:** Next.js, Docker, TypeScript, and Prisma.
-* 🌐 **Deep Dive:** Exploring Networking fundamentals and Relational Database Management.
+* 🎓 **Degree :** Pursuing B.Sc. in Software Engineering at IUT.
+* 🏗️ **Project :** Developing a Property Listing (Rental & Buy/Sell) website.
+* 📚 **Learning :** Next.js, Docker, TypeScript, and Prisma.
+* 🌐 **Deep Dive :** Exploring Networking fundamentals and Relational Database Management.
 
 ---
 
