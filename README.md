@@ -54,13 +54,8 @@ I am a Software Engineering student at the Islamic University of Technology, ded
 ---
 
 ### 📊 GitHub Statistics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SamiunAuntor&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamiunAuntor&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=SamiunAuntor&show_icons=true&theme=transparent&hide_border=true&hide_title=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SamiunAuntor&layout=compact&theme=transparent&hide_border=true&hide_title=true" alt="Top Languages" />
 
 <p align="center">
   <img src="https://ghchart.rshah.org/SamiunAuntor" alt="GitHub Contributions Graph" />
