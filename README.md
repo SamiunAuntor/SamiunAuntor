@@ -55,18 +55,15 @@ What motivates me most is the learning process. Every project is an opportunity 
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Statistics
 <p align="center">
-  <!-- GitHub Overall Stats -->
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=SamiunAuntor&show_icons=true&theme=transparent&hide_border=true&hide_title=true" alt="GitHub Stats" />
-  
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SamiunAuntor&layout=compact&theme=transparent&hide_border=true&hide_title=true" alt="Top Languages" />
-  
-  <!-- Streak Stats -->
-![GitHub Contributions](https://github.com/SamiunAuntor.png?tab=overview&from=2024-12-01&to=2025-12-31)
+  <img src="https://github-readme-stats.vercel.app/api?username=SamiunAuntor&show_icons=true&theme=transparent&hide_border=true&hide_title=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamiunAuntor&layout=compact&theme=transparent&hide_border=true&hide_title=true" alt="Top Languages" />
 </p>
 
+<p align="center">
+  <img src="https://ghchart.rshah.org/SamiunAuntor" alt="GitHub Contributions Graph" />
+</p>
 
 ---
 
