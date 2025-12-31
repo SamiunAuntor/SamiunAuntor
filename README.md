@@ -64,7 +64,7 @@ What motivates me most is the learning process. Every project is an opportunity 
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SamiunAuntor&layout=compact&theme=transparent&hide_border=true&hide_title=true" alt="Top Languages" />
   
   <!-- Streak Stats -->
-<img src="https://streak-stats.demolab.com/?user=SamiunAuntor&theme=transparent&hide_border=true&hide_title=true" alt="GitHub Streak Stats" />
+![GitHub Contributions](https://github.com/SamiunAuntor.png?tab=overview&from=2024-12-01&to=2025-12-31)
 </p>
 
 
