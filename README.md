@@ -70,7 +70,8 @@ I am a Software Engineering student at the Islamic University of Technology, ded
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=SamiunAuntor&theme=transparent&hide_border=true" alt="GitHub Streak" />
+  <img src="https://img.shields.io/badge/Current%20Streak-🔥%207%20days-brightgreen" alt="Current Streak" />
+  <img src="https://img.shields.io/badge/Longest%20Streak-🔥%2015%20days-yellow" alt="Longest Streak" />
 </p>
 
 
