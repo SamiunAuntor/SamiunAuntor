@@ -70,10 +70,8 @@ I am a Software Engineering student at the Islamic University of Technology, ded
 </p>
 
 <p align="center">
-  <h1>
-    <img src="https://img.shields.io/badge/Current%20Streak-🔥%207%20days-brightgreen" alt="Current Streak" />
-    <img src="https://img.shields.io/badge/Longest%20Streak-🔥%2015%20days-yellow" alt="Longest Streak" />
-  </h1>
+  <img src="https://img.shields.io/badge/Current%20Streak-🔥%207%20days-brightgreen" alt="Current Streak" height="40" />
+  <img src="https://img.shields.io/badge/Longest%20Streak-🔥%2015%20days-yellow" alt="Longest Streak" height="40" />
 </p>
 
 
