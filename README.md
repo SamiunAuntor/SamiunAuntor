@@ -1,6 +1,6 @@
 # Hi there, I'm Samiun Alim Auntor 👋
 
-![Banner](https://images.unsplash.com/photo-1517134191118-9d595e4c8c2b?q=80&w=2070&auto=format&fit=crop)
+![Banner](https://i.ibb.co.com/TDc6QVQS/Chat-GPT-Image-Mar-30-2026-04-42-40-PM.png)
 
 ### Full Stack Developer
 **Pursuing Software Engineering at IUT | Exploring System Design, Databases & Networking**
