@@ -6,7 +6,7 @@
 
 **MERN • Next.js • System Design • Backend Engineering Focus**
 
-> I don’t just build apps - I design systems that scale.
+> I don’t just build apps — I design systems that scale.
 
 ---
 
@@ -19,17 +19,17 @@
 
 ---
 
-## 🚀 Current Flagship Project - SkillBridge
+## 🚀 Current Flagship Project – SkillBridge
 
 A full-stack tutoring marketplace built with real-world SaaS architecture and scalable system design.
 
 ### 🔹 Key Features
 
-* Tutor discovery with advanced filtering (subject, price, rating)
+* Tutor discovery with advanced filtering
 * Availability-based booking system
-* Secure payment integration (Stripe)
-* Full session lifecycle: booking → meeting → review
-* Role-based dashboards (Student / Tutor / Admin)
+* Secure payment integration
+* Full session lifecycle (booking → meeting → review)
+* Role-based dashboards
 * Email notifications & reminders
 
 ### 🔹 Tech Stack
@@ -48,51 +48,37 @@ Next.js • Express • Prisma • PostgreSQL • Stripe
 
 ### 💻 Languages
 
-* TypeScript (Primary)
-* JavaScript
-* Go
-* Java
-* C++
-* C
-
----
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,go,java,cpp,c" />
+</p>
 
 ### 🎨 Frontend
 
-* React
-* Next.js
-* Tailwind CSS
-* React Router
-
----
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+</p>
 
 ### ⚙️ Backend
 
-* Node.js
-* Express.js
-* REST API Design
-
----
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
 ### 🗄️ Database & ORM
 
-* PostgreSQL (Primary)
-* MongoDB
-* MySQL
-* Prisma ORM
-
----
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,prisma" />
+</p>
 
 ### ☁️ DevOps & Tools
 
-* Docker
-* Git & GitHub
-* Firebase
-* Vercel
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,firebase,vercel" />
+</p>
 
 ---
 
-### 🧠 Engineering Concepts
+## 🧠 Engineering Concepts
 
 * System Design
 * Role-Based Access Control (RBAC)
@@ -106,7 +92,7 @@ Next.js • Express • Prisma • PostgreSQL • Stripe
 ## 🧪 Currently Focused On
 
 * Scaling SkillBridge into a production-ready SaaS platform
-* Advanced system design (caching, load balancing, architecture patterns)
+* Advanced system design (caching, load balancing)
 * Networking fundamentals for backend performance
 * Exploring Go for high-performance backend services
 
@@ -117,6 +103,11 @@ Next.js • Express • Prisma • PostgreSQL • Stripe
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=SamiunAuntor&show_icons=true&theme=transparent&hide_border=true" />
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SamiunAuntor&layout=compact&theme=transparent&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🔥%20Current%20Streak-7%20days-brightgreen" />
+  <img src="https://img.shields.io/badge/🏆%20Longest%20Streak-15%20days-yellow" />
 </p>
 
 ---
@@ -134,6 +125,6 @@ I’m actively looking for **internship opportunities** and collaboration on imp
 
 ## ⚡ Philosophy
 
-> Real Problem + System-Level Thinking + Consistent Execution = Scalable Solution
+> Real Problem + Consistent Execution + System-Level Thinking = Scalable Solution
 
 I believe impactful software comes from solving real-world problems through disciplined execution and thoughtful system design — turning ideas into production-ready, scalable systems.
