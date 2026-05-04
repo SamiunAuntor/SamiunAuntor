@@ -6,7 +6,7 @@
 
 **MERN • Next.js • System Design • Backend Engineering Focus**
 
-> I don’t just build apps — I design systems that scale.
+> I don’t just build apps - I design systems that scale.
 
 ---
 
@@ -19,7 +19,7 @@
 
 ---
 
-## 🚀 Project – SkillBridge
+## 🚀 Latest Project – SkillBridge
 
 Full-stack tutoring marketplace built with scalable SaaS architecture.
 
