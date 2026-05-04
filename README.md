@@ -91,7 +91,7 @@ Next.js • Express • Prisma • PostgreSQL • Stripe
 
 ## 🧪 Currently Focused On
 
-* Scaling SkillBridge into a production-ready SaaS platform
+* Moving on to learning cloud computing for production level deployment
 * Advanced system design (caching, load balancing)
 * Networking fundamentals for backend performance
 * Exploring Go for high-performance backend services
@@ -106,8 +106,7 @@ Next.js • Express • Prisma • PostgreSQL • Stripe
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🔥%20Current%20Streak-7%20days-brightgreen" />
-  <img src="https://img.shields.io/badge/🏆%20Longest%20Streak-15%20days-yellow" />
+  <img src="https://streak-stats.demolab.com?user=SamiunAuntor&theme=transparent&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
