@@ -12,35 +12,27 @@
 
 ## 🚀 What I Do
 
-* Build full-stack SaaS platforms using modern web technologies
-* Design scalable backend architectures with clean modular structure
-* Implement real-world systems: booking, payments, authentication, RBAC
-* Focus on performance, maintainability, and production-ready code
+* Build full-stack SaaS platforms
+* Design scalable backend architectures
+* Implement real-world systems (booking, payments, RBAC)
+* Focus on clean, production-ready code
 
 ---
 
-## 🚀 Current Flagship Project – SkillBridge
+## 🚀 Project – SkillBridge
 
-A full-stack tutoring marketplace built with real-world SaaS architecture and scalable system design.
+Full-stack tutoring marketplace built with scalable SaaS architecture.
 
-### 🔹 Key Features
-
-* Tutor discovery with advanced filtering
-* Availability-based booking system
-* Secure payment integration
-* Full session lifecycle (booking → meeting → review)
-* Role-based dashboards
+* Booking system + availability slots
+* Role-based dashboards (Student / Tutor / Admin)
+* Payment integration + session lifecycle
 * Email notifications & reminders
 
-### 🔹 Tech Stack
+**Stack:** Next.js • Express • Prisma • PostgreSQL • Stripe
 
-Next.js • Express • Prisma • PostgreSQL • Stripe
-
-### 🔹 Links
-
-* 🌐 Live: https://skill-bridge-frontend-sooty.vercel.app/
-* 💻 Client: https://github.com/SamiunAuntor/Skill-Bridge_Frontend
-* ⚙️ Server: https://github.com/SamiunAuntor/Skill-Bridge_Backend
+🔗 [Live](https://skill-bridge-frontend-sooty.vercel.app/) •
+[Client](https://github.com/SamiunAuntor/Skill-Bridge_Frontend) •
+[Server](https://github.com/SamiunAuntor/Skill-Bridge_Backend)
 
 ---
 
@@ -81,8 +73,8 @@ Next.js • Express • Prisma • PostgreSQL • Stripe
 ## 🧠 Engineering Concepts
 
 * System Design
-* Role-Based Access Control (RBAC)
-* RESTful API Architecture
+* RBAC
+* REST API Architecture
 * Database Normalization
 * Authentication & Authorization
 * Caching Fundamentals
@@ -91,10 +83,10 @@ Next.js • Express • Prisma • PostgreSQL • Stripe
 
 ## 🧪 Currently Focused On
 
-* Moving on to learning cloud computing for production level deployment
+* Learning cloud computing for production-grade deployment
 * Advanced system design (caching, load balancing)
-* Networking fundamentals for backend performance
-* Exploring Go for high-performance backend services
+* Networking fundamentals
+* Exploring Go for high-performance backend
 
 ---
 
@@ -106,16 +98,14 @@ Next.js • Express • Prisma • PostgreSQL • Stripe
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SamiunAuntor&theme=transparent&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=SamiunAuntor&theme=transparent&hide_border=true" />
 </p>
 
 ---
 
 ## 🤝 Let’s Connect
 
-I’m actively looking for **internship opportunities** and collaboration on impactful projects.
-
-📩 If you’re building something meaningful — let’s talk.
+📩 Let’s build something meaningful.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/samiun-alim-auntor/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/SamiunAuntor)
@@ -126,4 +116,4 @@ I’m actively looking for **internship opportunities** and collaboration on imp
 
 > Real Problem + Consistent Execution + System-Level Thinking = Scalable Solution
 
-I believe impactful software comes from solving real-world problems through disciplined execution and thoughtful system design — turning ideas into production-ready, scalable systems.
+I focus on solving real-world problems through disciplined execution and clean system design — building production-ready, scalable systems.
