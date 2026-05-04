@@ -2,86 +2,138 @@
 
 ![Banner](https://res.cloudinary.com/do9l7anvs/image/upload/v1777556563/ChatGPT_Image_Apr_30_2026_06_38_16_PM_vmgnou.png)
 
-### Full Stack Developer
-**Pursuing Software Engineering at IUT | Exploring System Design, Databases & Networking**
+### 🚀 Full Stack Developer | Building Scalable SaaS Platforms
+
+**MERN • Next.js • System Design • Backend Engineering Focus**
+
+> I don’t just build apps - I design systems that scale.
 
 ---
 
-### 📖 About Me
-I am a Software Engineering student at the Islamic University of Technology, dedicated to building robust and user-centric web applications. I am proficient in the **MERN stack** and now diving deep into **Next.js, System Design, and Relational Databases** to build scalable, real-world solutions. I thrive on the learning process, constantly refining my approach to clean code and efficient architecture.
+## 🚀 What I Do
+
+* Build full-stack SaaS platforms using modern web technologies
+* Design scalable backend architectures with clean modular structure
+* Implement real-world systems: booking, payments, authentication, RBAC
+* Focus on performance, maintainability, and production-ready code
 
 ---
 
-### 🔭 Current Activities
-* 🎓 **Degree :** Pursuing B.Sc. in Software Engineering at IUT.
-* 🏗️ **Project :** Developing a Property Listing (Rental & Buy/Sell) website.
-* 📚 **Learning :** Next.js, Docker, TypeScript, and Prisma.
-* 🌐 **Deep Dive :** Exploring Networking fundamentals and Relational Database Management.
+## 🚀 Current Flagship Project - SkillBridge
+
+A full-stack tutoring marketplace built with real-world SaaS architecture and scalable system design.
+
+### 🔹 Key Features
+
+* Tutor discovery with advanced filtering (subject, price, rating)
+* Availability-based booking system
+* Secure payment integration (Stripe)
+* Full session lifecycle: booking → meeting → review
+* Role-based dashboards (Student / Tutor / Admin)
+* Email notifications & reminders
+
+### 🔹 Tech Stack
+
+Next.js • Express • Prisma • PostgreSQL • Stripe
+
+### 🔹 Links
+
+* 🌐 Live: https://skill-bridge-frontend-sooty.vercel.app/
+* 💻 Client: https://github.com/SamiunAuntor/Skill-Bridge_Frontend
+* ⚙️ Server: https://github.com/SamiunAuntor/Skill-Bridge_Backend
 
 ---
 
-### 🛠️ Skills
+## 🛠️ Tech Stack
 
-#### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+### 💻 Languages
 
-#### Backend & Database
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-#### Languages & Tools
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-#### Deployment
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase_Hosting-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+* TypeScript (Primary)
+* JavaScript
+* Go
+* Java
+* C++
+* C
 
 ---
 
-### 📊 GitHub Statistics
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats-fast.vercel.app/api?username=SamiunAuntor&show_icons=true&theme=transparent&hide_border=true&hide_title=true" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SamiunAuntor&layout=compact&theme=transparent&hide_border=true&hide_title=true" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+### 🎨 Frontend
+
+* React
+* Next.js
+* Tailwind CSS
+* React Router
+
+---
+
+### ⚙️ Backend
+
+* Node.js
+* Express.js
+* REST API Design
+
+---
+
+### 🗄️ Database & ORM
+
+* PostgreSQL (Primary)
+* MongoDB
+* MySQL
+* Prisma ORM
+
+---
+
+### ☁️ DevOps & Tools
+
+* Docker
+* Git & GitHub
+* Firebase
+* Vercel
+
+---
+
+### 🧠 Engineering Concepts
+
+* System Design
+* Role-Based Access Control (RBAC)
+* RESTful API Architecture
+* Database Normalization
+* Authentication & Authorization
+* Caching Fundamentals
+
+---
+
+## 🧪 Currently Focused On
+
+* Scaling SkillBridge into a production-ready SaaS platform
+* Advanced system design (caching, load balancing, architecture patterns)
+* Networking fundamentals for backend performance
+* Exploring Go for high-performance backend services
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/SamiunAuntor" alt="GitHub Contributions Graph" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=SamiunAuntor&show_icons=true&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SamiunAuntor&layout=compact&theme=transparent&hide_border=true" />
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Current%20Streak-🔥%207%20days-brightgreen" alt="Current Streak" height="40" />
-  <img src="https://img.shields.io/badge/Longest%20Streak-🔥%2015%20days-yellow" alt="Longest Streak" height="40" />
-</p>
-
-
 
 ---
 
-### 🔗 Connect with Me
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/samiun-alim-auntor/)
-[<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/SamiunAuntor)
+## 🤝 Let’s Connect
+
+I’m actively looking for **internship opportunities** and collaboration on impactful projects.
+
+📩 If you’re building something meaningful — let’s talk.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/samiun-alim-auntor/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/SamiunAuntor)
 
 ---
 
-*“Consistent effort and result-oriented focus drive meaningful progress.”*
+## ⚡ Philosophy
+
+> Real Problem + System-Level Thinking + Consistent Execution = Scalable Solution
+
+I believe impactful software comes from solving real-world problems through disciplined execution and thoughtful system design — turning ideas into production-ready, scalable systems.
