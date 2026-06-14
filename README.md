@@ -1,6 +1,6 @@
 # Hi there, I'm Samiun Alim Auntor 👋
 
-![Banner](https://res.cloudinary.com/do9l7anvs/image/upload/v1777556563/ChatGPT_Image_Apr_30_2026_06_38_16_PM_vmgnou.png)
+![Banner](https://i.ibb.co.com/0yZ6GfLy/4d7c528d-b66a-4c9f-8f39-dc7a02548f61.png)
 
 ### 🚀 Full Stack Developer | Building Scalable SaaS Platforms
 
